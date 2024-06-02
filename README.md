@@ -1,4 +1,7 @@
-## Hi there 👋
+## Andrew Koskin
+
+- I am currently working as an automation QA at Mathing Galaxy
+- Primary programming language - python
 
 <!--
 **AndrewKoskin/AndrewKoskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
